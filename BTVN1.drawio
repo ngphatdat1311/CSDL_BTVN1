@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="SZMtFdSYR_CvCIaaJRNh">
+    <mxGraphModel dx="975" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+=======
+<mxfile host="Electron">
+  <diagram name="Page-1" id="SZMtFdSYR_CvCIaaJRNh">
+    <mxGraphModel dx="896" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+>>>>>>> 574198b (commit)
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BOOKS" vertex="1">
+          <mxGeometry height="60" width="120" x="514" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-20" edge="1" parent="1" source="YxLRVmLblvNBpV4R4gu4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YxLRVmLblvNBpV4R4gu4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-22" connectable="0" parent="YxLRVmLblvNBpV4R4gu4-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="-0.0759" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AUTHORS" vertex="1">
+          <mxGeometry height="60" width="120" x="164" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-12" edge="1" parent="1" source="YxLRVmLblvNBpV4R4gu4-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YxLRVmLblvNBpV4R4gu4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="NAME_AUTHOR" vertex="1">
+          <mxGeometry height="60" width="100" x="29" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-15" edge="1" parent="1" source="YxLRVmLblvNBpV4R4gu4-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YxLRVmLblvNBpV4R4gu4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="YEAR OF BIRTH" vertex="1">
+          <mxGeometry height="60" width="110" x="24" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-17" edge="1" parent="1" source="YxLRVmLblvNBpV4R4gu4-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YxLRVmLblvNBpV4R4gu4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="YEAR OF PUBLICATION" vertex="1">
+          <mxGeometry height="60" width="110" x="694" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-18" edge="1" parent="1" source="YxLRVmLblvNBpV4R4gu4-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YxLRVmLblvNBpV4R4gu4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="NAME_BOOK" vertex="1">
+          <mxGeometry height="60" width="110" x="694" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-21" edge="1" parent="1" source="YxLRVmLblvNBpV4R4gu4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YxLRVmLblvNBpV4R4gu4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-23" connectable="0" parent="YxLRVmLblvNBpV4R4gu4-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.0621" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxLRVmLblvNBpV4R4gu4-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;pre class=&quot;tw-data-text tw-text-large tw-ta&quot; data-placeholder=&quot;Bản dịch&quot; id=&quot;tw-target-text&quot; role=&quot;text&quot; style=&quot;text-align:left&quot; tabindex=&quot;-1&quot; data-ved=&quot;2ahUKEwihiqeUgf-TAxV_UPUHHWE0FfoQ3ewLegQIDRAU&quot; dir=&quot;ltr&quot; aria-label=&quot;Bản dịch: compose&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;compose&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="364" y="310" as="geometry" />
+        </mxCell>
+<<<<<<< HEAD
+=======
+        <mxCell id="Bm0OP5PtThd29NM0DjpP-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Việc coi AUTHORS là thuộc tính của BOOKS là sai vì tác giả không phải thông tin đơn lẻ mà có nhiều dữ liệu riêng như năm sinh, tiểu sử và các sách đã viết. Nếu thiết kế như vậy, thông tin tác giả sẽ bị lặp lại ở mỗi cuốn sách, gây dư thừa và dễ sai lệch khi cập nhật. Đồng thời, cách này cũng không đáp ứng được yêu cầu xem chi tiết tác giả và các sách liên quan, nên AUTHORS cần được tách thành một thực thể riêng." vertex="1">
+          <mxGeometry height="30" width="510" x="164" y="570" as="geometry" />
+        </mxCell>
+>>>>>>> 574198b (commit)
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
